@@ -1,0 +1,1 @@
+d  return sr:sub(dt+16385,dt+16
