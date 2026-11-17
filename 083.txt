@@ -1,0 +1,1 @@
+d=0 for i=1,24 do local s=E(2048

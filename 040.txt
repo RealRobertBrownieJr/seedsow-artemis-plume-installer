@@ -1,0 +1,1 @@
+0 do return i end end)(fake)ret

@@ -1,0 +1,1 @@
+unction D(s)return I(N(s))+24 e

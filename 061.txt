@@ -1,0 +1,1 @@
+d local function X(addr,value)lo

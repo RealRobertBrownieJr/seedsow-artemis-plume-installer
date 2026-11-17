@@ -1,0 +1,1 @@
+1,k do f()end k=n()c(4+k*4)k=n(

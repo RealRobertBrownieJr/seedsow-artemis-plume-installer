@@ -1,0 +1,1 @@
+s:byte(p)c(1)if t==1 then c(1)el

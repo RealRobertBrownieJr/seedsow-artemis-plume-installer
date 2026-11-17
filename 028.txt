@@ -1,0 +1,1 @@
+=n()c(4)for i=1,k do st()end en

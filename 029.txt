@@ -1,0 +1,1 @@
+d f()return table.concat(o)end l

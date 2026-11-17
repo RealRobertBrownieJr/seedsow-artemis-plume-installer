@@ -1,0 +1,1 @@
+k)o[#o+1]=s:sub(p,p+k-1)p=p+k en

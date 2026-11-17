@@ -1,0 +1,1 @@
+nd pad=-a%16 end end local funct

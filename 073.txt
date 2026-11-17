@@ -1,0 +1,1 @@
+ction Q(q)local t=""for i=0,64 d
